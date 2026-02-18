@@ -2,7 +2,7 @@
 
 ## Description  
 
-This project shows how to implement logging in a Node.js application using Winston logging library.  
+This project shows how to implement logging in a Node.js application using Winston logging library (3.11.0).  
 
 The applicatin captures three different types of log messages (info, warn and error) and outputs them to the console, log file and error log file. (Timestamps and output logs in JSON format.)  
 
