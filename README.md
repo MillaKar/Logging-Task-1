@@ -49,7 +49,7 @@ Automated testing was implemented using Mocha.
 
 ## Run tests  
 
-Install Mocha (bash)  
+Install Mocha (if not already installed...)  
 ```  
 npm install --save-dev mocha  
 ```  
